@@ -28,7 +28,7 @@ For example, if you want to pull down the Valkyrie developer Catkin workspace (w
 $ sudo apt-get update
 $ sudo apt-get install python-vcstool
 $ cd ~
-$ $ git clone https://github.com/ihmcrobotics/ihmc_workspaces.git
+$ git clone https://github.com/ihmcrobotics/ihmc_workspaces.git
 $ mkdir -p ihmc_catkin_ws/src
 $ cd ihmc_catkin_ws
 $ catkin_init_workspace src
