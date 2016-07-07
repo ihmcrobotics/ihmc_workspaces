@@ -6,7 +6,7 @@ repositories:
   ihmc_ros_control:
     type: git
     url: git@github.com:ihmcrobotics/ihmc-ros-control.git
-    version: develop
+    version: 0.3.0
   ihmc_valkyrie_ros:
     type: git
     url: git@github.com:ihmcrobotics/ihmc_valkyrie_ros.git
